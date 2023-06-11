@@ -48,7 +48,7 @@ class ToDos extends Component{
         this.updateState(todos)
     }
     styles = {
-        padding:"13%", 
+        padding:"12%", 
         backgroundColor:"bisque",
         width:"80%",
         marginLeft: "10%"
