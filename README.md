@@ -27,4 +27,4 @@ This project is a Todo App built with React. This is only frontend project based
 ## Demo
 
 Click to Visit!
-[WeatherApp](https://todoapp.amrishpratapsingh.com)
+[TodoApp](https://todoapp.amrishpratapsingh.com)
